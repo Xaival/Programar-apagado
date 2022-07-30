@@ -7,7 +7,7 @@ Aplicación para programar el apagado.
 
 <br><br>
 
-# Ejecutable
+# Hacer ejecutable
 El ejecutable se ha creado a partir del archivo de Python usando https://github.com/Xaival/Interfaz-PyInstaller
 
 ![Config EXE](https://user-images.githubusercontent.com/54257745/181864972-563592f8-c20c-42af-8656-e255b53e0a68.png)
