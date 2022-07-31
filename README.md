@@ -1,3 +1,8 @@
+# Aviso
+**No funcionará en sistemas de 32 bits**
+
+<br>
+
 # Programar apagado
 Aplicación para programar el apagado.
 
